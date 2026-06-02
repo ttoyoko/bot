@@ -6,7 +6,7 @@ import os
 import re
 
 # ========== НАСТРОЙКИ ==========
-TOKEN = "MTUwOTUyNzAxMzk0NDE5NzM2Mg.G5Fkd2.99HIJlsCBO1Ns9n9bYgc3_9ttqe3wVpBzQZgWw"  # лучше вынести в переменную окружения
+TOKEN = "MTUwOTUyNzAxMzk0NDE5NzM2Mg.GZhJWm.vIaWFtyaAxxAdTtwHfNBb_29Pcq2pmQyAmqYJg"  # лучше вынести в переменную окружения
 ADMIN_ROLE_IDS = [1374277168435036251,1446618536687698032,1505940772648914954]
 SUBMISSION_CHANNEL_ID = 1509590686003888258
 GUILD_ID = 763029275514765363  # <-- замените на ID вашего сервера
